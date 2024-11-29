@@ -2,7 +2,7 @@
   "name": "portfoliographics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kondexor2000.github.io/PostGraphic",
+  "homepage": "https://kondexor2000.github.io/PostGraphic/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
